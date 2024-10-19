@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "ZaloExtension",
-  "version": "1.0.0",
+  "name": "Zalo cookies",
+  "version": "1.0.1",
   "description": "Export cookies and imei zalo",
   "icons": {
     "16": "logo.png",
@@ -9,7 +9,7 @@
     "128": "logo.png"
 },
   "action": {
-    "default_title": "ZaloExtensions",
+    "default_title": "Zalocookies",
     "default_popup": "index.html",
     "default_icon": {
         "16": "logo.png",

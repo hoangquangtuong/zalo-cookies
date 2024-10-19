@@ -55,8 +55,4 @@
 
 This project is licensed under the [MIT License](LICENSE).
 
-### Giấy Phép
-
-Dự án này được cấp phép theo [Giấy phép MIT](LICENSE).
-
 Feel free to adjust any sections if needed!
