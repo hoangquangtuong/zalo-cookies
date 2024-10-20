@@ -1,19 +1,13 @@
 
-# Zalo Extensions
-
-**Zalo Extensions** is a browser extension for Zalo Web that helps you easily manage cookies and IMEI data.
-
-**Zalo Extensions** là tiện ích mở rộng trình duyệt dành cho Zalo Web, giúp bạn quản lý cookies và IMEI dễ dàng.
+# Zalo Cookies
+[![Now available in Chrome Web Store!](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chromewebstore.google.com/detail/zaloextension/ncieaodaagbiemjpallkhhelkjkbkpmj)&nbsp;&nbsp;
+**Zalo Cookies** is a browser extension for Zalo Web that helps you easily manage cookies and IMEI data.
 
 ## Features
 
 - **Retrieve Cookies**: Automatically fetch and display cookies.
 - **Access IMEI**: Extract `z_uuid` from localStorage.
 
-### Tính Năng
-
-- **Lấy Cookie**: Tự động lấy và hiển thị cookies.
-- **Truy Cập IMEI**: Trích xuất `z_uuid` từ localStorage.
 
 ## Installation
 
@@ -23,36 +17,17 @@
 4. **Enable Developer Mode**: Toggle the switch.
 5. **Load Unpacked**: Select the extracted folder.
 
-### Cài Đặt
-
-1. **Tải Xuống Tiện Ích**: Tải tệp `.zip`.
-2. **Giải Nén Tệp**: Giải nén tệp.
-3. **Mở Chrome**: Truy cập trang Tiện Ích (`chrome://extensions`).
-4. **Bật Chế Độ Nhà Phát Triển**: Bật công tắc.
-5. **Tải Mở Rộng**: Chọn thư mục đã giải nén.
-
 ## Usage
 
-1. **Activate the Extension**: Click the Zalo icon.
-2. **View and Copy Data**: Cookies and IMEI will be displayed. Click to copy.
+> [!CAUTION]
+> **Activate the Extension**: Click the Zalo icon.
+> **View and Copy Data**: Cookies and IMEI will be displayed. Click to copy.
 
-### Sử Dụng
-
-1. **Kích Hoạt Tiện Ích**: Nhấp vào biểu tượng Zalo.
-2. **Xem và Sao Chép Dữ Liệu**: Cookies và IMEI sẽ được hiển thị. Nhấp để sao chép.
-
-## Notes
-
-- **Login Required**: Must be logged into Zalo.
-- **Privacy**: Does not collect personal information.
-
-### Ghi Chú
-
-- **Cần Đăng Nhập**: Phải đăng nhập vào Zalo.
-- **Quyền Riêng Tư**: Không thu thập thông tin cá nhân.
-
+> [!NOTE]
+> Login Required: Must be logged into Zalo.
+> Privacy: Does not collect personal information.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
+-----
 Feel free to adjust any sections if needed!
